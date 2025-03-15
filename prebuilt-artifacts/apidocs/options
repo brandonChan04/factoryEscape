@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Projects/CMPT276/CMPT276S24_group25/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Projects/CMPT276/CMPT276S24_group25/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Factory Escape 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Projects/CMPT276/CMPT276S24_group25/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Factory Escape 1.0 API'
