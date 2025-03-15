@@ -1,3 +1,5 @@
+# This is an old completed project and has been pushed to github all at once
+
 To do each task, run the commands in a terminal with the current directory set to the root directory of this project
 
 # Build game
